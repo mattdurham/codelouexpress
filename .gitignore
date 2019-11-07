@@ -1,8 +1,5 @@
-<<<<<<< HEAD
 *.db
 
-=======
->>>>>>> dea83ca4ba08d259265807431bdd9cb7b48ac371
 # Logs
 logs
 *.log
