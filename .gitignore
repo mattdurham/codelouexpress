@@ -1,5 +1,8 @@
+<<<<<<< HEAD
 *.db
 
+=======
+>>>>>>> dea83ca4ba08d259265807431bdd9cb7b48ac371
 # Logs
 logs
 *.log
@@ -61,4 +64,7 @@ typings/
 
 # next.js build output
 .next
+<<<<<<< HEAD
 
+=======
+>>>>>>> dea83ca4ba08d259265807431bdd9cb7b48ac371
